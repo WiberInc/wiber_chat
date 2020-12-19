@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65660977106",
+    "firebase_url": "https://wiber-chat-db01a.firebaseio.com",
+    "project_id": "wiber-chat-db01a",
+    "storage_bucket": "wiber-chat-db01a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65660977106:android:feec84b1e98fbd485e520b",
+        "android_client_info": {
+          "package_name": "app.wiber.wiberchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65660977106-43a3o9pd4809hfuoqbqqfasgk57op4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-LpzeE75Pljgro3oH9QcOA8WfEYHXh1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65660977106-43a3o9pd4809hfuoqbqqfasgk57op4i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
